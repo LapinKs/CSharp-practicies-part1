@@ -1,0 +1,5 @@
+B:\C#_practicies (Ulearn)\Целостность данных\PocketGoogle\obj\Debug\net6.0\PocketGoogle.csproj.AssemblyReference.cache
+B:\C#_practicies (Ulearn)\Целостность данных\PocketGoogle\obj\Debug\net6.0\PocketGoogle.GeneratedMSBuildEditorConfig.editorconfig
+B:\C#_practicies (Ulearn)\Целостность данных\PocketGoogle\obj\Debug\net6.0\PocketGoogle.AssemblyInfoInputs.cache
+B:\C#_practicies (Ulearn)\Целостность данных\PocketGoogle\obj\Debug\net6.0\PocketGoogle.AssemblyInfo.cs
+B:\C#_practicies (Ulearn)\Целостность данных\PocketGoogle\obj\Debug\net6.0\PocketGoogle.csproj.CoreCompileInputs.cache
